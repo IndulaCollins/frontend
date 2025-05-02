@@ -14,7 +14,7 @@ const Headsection = () => {
             <button className="mt-6 bg-blue-500 hover:bg-yellow-600 text-white py-2 px-6 rounded-full transition">LinkedIn</button>
         </div>
 
-        <section className='grid sm:grid-cols-3 gap-8 py-12 px-12 bg-gray-100 md:px-20'>
+        <section className='grid sm:grid-cols-5 gap-8 py-12 px-12 bg-gray-100 md:px-20'>
           <div className="shadow-lg p-6 rounded bg-white">
             <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='w-full h-full'></iframe>
           </div>
