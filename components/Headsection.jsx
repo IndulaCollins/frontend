@@ -9,7 +9,7 @@ const Headsection = () => {
         <div className='flex justify-between py-2 px-12 md:px-20 text-black font-extrabold bg-gray-100'>
             <div className='flex'>
                 <Image src={logo} width={60} alt='armfa logo'/>
-                <h4 className='m-auto p-2 text-[24px]'>Africa Roads Maintenance Fund Association</h4>
+                <h4 className='m-auto p-2 text-3xl'>Africa Roads Maintenance Fund Association</h4>
             </div>
             <button className="mt-6 bg-blue-500 hover:bg-yellow-600 text-white py-2 px-6 rounded-full transition">LinkedIn</button>
         </div>
