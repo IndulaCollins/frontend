@@ -19,19 +19,19 @@ const Headsection = () => {
             <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-auto'></iframe>
           </div>
 
-          <div className="shadow-lg p-6 rounded bg-white">
+          <div className="shadow-lg p-6 rounded bg-white h-[500px] m-auto">
             <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-auto'></iframe>
           </div>
 
-          <div className="shadow-lg p-6 rounded bg-white">
+          <div className="shadow-lg p-6 rounded bg-white h-[500px] m-auto">
             <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-auto'></iframe>
           </div>
 
-          <div className="shadow-lg p-6 rounded bg-white">
+          <div className="shadow-lg p-6 rounded bg-white h-[500px] m-auto">
             <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-auto'></iframe>
           </div>
 
-          <div className="shadow-lg p-6 rounded bg-white">
+          <div className="shadow-lg p-6 rounded bg-white h-[500px] m-auto">
             <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-auto'></iframe>
           </div>
         </section>
