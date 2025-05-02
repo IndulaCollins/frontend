@@ -16,23 +16,23 @@ const Headsection = () => {
 
         <section className='grid md:grid-cols-5 gap-8 py-12 px-12 bg-gray-100 md:px-20'>
           <div className="shadow-lg p-6 rounded bg-white h-[500px] m-auto">
-            <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-auto'></iframe>
+            <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-fit'></iframe>
           </div>
 
           <div className="shadow-lg p-6 rounded bg-white h-[500px] m-auto">
-            <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-auto'></iframe>
+            <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-fit'></iframe>
           </div>
 
           <div className="shadow-lg p-6 rounded bg-white h-[500px] m-auto">
-            <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-auto'></iframe>
+            <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-fit'></iframe>
           </div>
 
           <div className="shadow-lg p-6 rounded bg-white h-[500px] m-auto">
-            <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-auto'></iframe>
+            <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-fit'></iframe>
           </div>
 
           <div className="shadow-lg p-6 rounded bg-white h-[500px] m-auto">
-            <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-auto'></iframe>
+            <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297807241011699712?collapsed=1" frameborder="0" allowfullscreen="" title="Embedded post" className='size-fit'></iframe>
           </div>
         </section>
 
